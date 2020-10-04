@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css?family=Copse|Delius+Swash+Caps|Gabriela|Unkempt&display=swap');
+html{
+  scroll-behavior: smooth;
+}
+.division1{
+    background-image: url('../images/h_img.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding-top:17%; 
+    font-family: 'Gabriela', serif;
+    /* padding-bottom:5%; */
+  }
+  .division1 h1{
+    padding: 2px;
+    margin: 5px;
+  }
+  .division1 p{
+    padding: 2px;
+  }
