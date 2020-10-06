@@ -6,14 +6,14 @@ Sierra Teta
 <br>
 Description
 <br>
-A web appliThis project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. cation that takes a user's birthday and calculates the day of the week they were born and then depending on their gender outputs their Akan Name. Akan names are derived from Ghanian culture. Frequently in Ghana, children are given their first name as a 'day name' which corresponds to the day in the week they were born.
+This project is a web application for Delani studio that shows details about the services it offers, has information about the studio, a portfolio section and a form that enables users to send their messages and concern to Delani studios. 
 <br>
 <br>
 
 Setup instructions
 <br>
 There is no need to enter your personal credials to access this page.
-You will only be required to enter you birthday credentials.
+<br>
 Scroll down until the last to see all information.
 <br>
 You only need the live link to access my page.
@@ -31,6 +31,7 @@ Javascript
 Github Pages link
 <br>
 You can view the live application by following this link : 
+<br>
 Contact information
 <br>
 Kteta.sierra@gmail.com
