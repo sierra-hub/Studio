@@ -19,16 +19,6 @@ $(document).ready(function(){
       $("#designimage").slideDown('1500');
     });
   });
-  $(document).ready(function(){
-    $("#designimage").click(function(){
-      $("#designimage").slideDown('1500').hide('1000');
-      $("#design").show('1500');
-    });
-    $("#design").click(function(){
-      $("#design").slideUp('1500');
-      $("#designimage").slideDown('1500');
-    });
-  });
   
   $(document).ready(function(){
     $("#product-image").click(function(){
@@ -40,6 +30,7 @@ $(document).ready(function(){
       $("#product-image").slideDown('1500');
     });
   });
+  
   $(document).ready(function(){
     $("#black").mouseover(function(){
       $("#overlay").show();
@@ -91,6 +82,7 @@ $(document).ready(function(){
       $("#overlay8").hide();
     });
   });
+  
   $(document).ready(function(){
     $("form#formcontact").submit(function(event){
       var name = $("input#MERGE1").val();
